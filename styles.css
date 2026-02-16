@@ -326,6 +326,16 @@ nav a.active {
   color: var(--muted);
 }
 
+
+.inquiry-cta {
+  text-align: center;
+  padding: 48px 0 32px;
+}
+
+.inquiry-cta .ghost-link {
+  letter-spacing: 0.2em;
+}
+
 @media (max-width: 600px) {
   nav a {
     margin-left: 12px;
